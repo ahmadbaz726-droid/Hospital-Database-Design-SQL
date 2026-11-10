@@ -14,6 +14,3 @@ I identified six main entities for the hospital database and designed their rela
 I also wrote SQL statements to create tables, add sample records and work with the database using different queries.
 ## Project Outcome
 This project helped me understand how relational databases are designed, how tables connect using keys and how SQL can be used to manage information.
-## Project Evidence
-Database diagrams and examples of SQL queries from my university assignment.
-  
